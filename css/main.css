@@ -1,0 +1,42 @@
+/*
+ * Adriana Orellana
+ * Copyright 2015 Adriana Orellana.
+ */
+
+
+/**********************************
+ COLORS
+
+ Gray  #535d65
+ BluishLogo  #4f899f
+ Orange ##ec4838
+ Light Blue #248cb0
+ Dark Blue #00475a
+ Dark background #071b20
+
+***********************************/
+
+
+/**********************************
+ COLORS
+***********************************/
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: green;
+}
+
+
+/**********************************
+ Layout
+***********************************/
+
+.top-margin{
+  margin-top: 100px;
+}
+
+#contact{
+  margin-top: 300px;
+}
+
+span{
+  padding-left: 30px;
+}
